@@ -1,0 +1,61 @@
+
+> equipment-booking-frontend@0.1.0 dev
+> vite --host 0.0.0.0
+
+Re-optimizing dependencies because vite config has changed
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m760[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://172.18.0.1:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://26.210.40.136:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.0.13:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m21:32:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/EquipmentPage.jsx, /src/pages/EquipmentDetailPage.jsx[22m
+[2m21:32:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ProfilePage.jsx[22m
+[2m21:32:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MainLayout.jsx[22m
+[2m21:32:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminUsersPage.jsx[22m
+[2m21:32:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/EquipmentPage.jsx[22m
+[2m21:32:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MyListingsPage.jsx[22m
+[2m21:32:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/AppRouter.jsx[22m
+[2m21:32:00[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m21:32:00[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m21:32:00[22m [36m[1m[vite][22m[39m server restarted.
+[2m21:56:39[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MyListingsPage.jsx, /src/pages/AdminCategoriesPage.jsx, /src/pages/AdminUsersPage.jsx, /src/pages/AccountPage.jsx, /src/pages/ProfilePage.jsx, /src/pages/EquipmentDetailPage.jsx, /src/pages/AdminListingsPage.jsx, /src/pages/EquipmentPage.jsx, /src/pages/MyBookingsPage.jsx, /src/pages/LoginPage.jsx, /src/pages/RegisterPage.jsx, /src/pages/ChatPage.jsx[22m
+[2m23:05:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MyBookingsPage.jsx, /src/pages/EquipmentDetailPage.jsx[22m
+[2m23:05:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MyListingsPage.jsx, /src/pages/EquipmentDetailPage.jsx, /src/pages/AdminListingsPage.jsx, /src/pages/EquipmentPage.jsx[22m
+[2m23:05:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MyListingsPage.jsx, /src/pages/AdminCategoriesPage.jsx, /src/pages/AdminUsersPage.jsx, /src/pages/AccountPage.jsx, /src/pages/ProfilePage.jsx, /src/pages/EquipmentDetailPage.jsx, /src/pages/AdminListingsPage.jsx, /src/pages/EquipmentPage.jsx, /src/pages/MyBookingsPage.jsx, /src/pages/LoginPage.jsx, /src/pages/RegisterPage.jsx, /src/pages/ChatPage.jsx[22m
+[2m23:05:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminUsersPage.jsx, /src/pages/AccountPage.jsx, /src/pages/ProfilePage.jsx[22m
+[2m23:05:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MainLayout.jsx[22m
+[2m23:05:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AdminUsersPage.jsx[22m
+[2m23:05:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ChatPage.jsx[22m
+[2m23:05:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/EquipmentDetailPage.jsx[22m
+[2m23:05:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m23:05:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MyBookingsPage.jsx[22m
+[2m23:05:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/OwnerBookingsPage.jsx[22m
+[2m23:05:08[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m23:05:22[22m [36m[1m[vite][22m[39m [32mvite.config.js changed, restarting server...[39m
+[2m23:05:22[22m [36m[1m[vite][22m[39m server restarted.
+[2m23:37:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ChatPage.jsx, /src/pages/EquipmentDetailPage.jsx[22m
+[2m23:37:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/EquipmentPage.jsx, /src/pages/AdminListingsPage.jsx, /src/pages/EquipmentDetailPage.jsx, /src/pages/MyListingsPage.jsx, /src/pages/HomePage.jsx[22m
+[2m23:37:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MainLayout.jsx[22m
+[2m23:37:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/AccountPage.jsx[22m
+[2m23:37:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/ChatPage.jsx[22m
+[2m23:37:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m23:37:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/LoginPage.jsx[22m
+[2m23:37:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/MyListingsPage.jsx[22m
+[2m23:37:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/RegisterPage.jsx[22m
+[2m23:37:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/routes/AppRouter.jsx[22m
+[2m23:37:27[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m23:39:25[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MainLayout.jsx[22m
+[2m00:13:11[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/RegisterPage.jsx[22m
+[2m00:13:11[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/MainLayout.jsx[22m
+[2m00:13:11[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m00:13:11[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m00:13:41[22m [31m[1m[vite][22m[39m [31mhttp proxy error: /api/chats[39m
+AggregateError [EACCES]: 
+    at internalConnectMultiple (node:net:1121:18)
+    at afterConnectMultiple (node:net:1688:7)
+[2m00:17:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m
+[2m00:17:42[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/styles/globals.css[22m
+[2m06:12:30[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/pages/HomePage.jsx[22m

@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: equipment-booking-api
+    runtime: go
+    rootDir: backend
+    buildCommand: go build -tags netgo -ldflags "-s -w" -o app ./cmd
+    startCommand: ./app
+    healthCheckPath: /api/health
+    plan: free
+    envVars:
+      - key: DATABASE_URL
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: DATA_ENCRYPTION_KEY
+        generateValue: true
+      - key: ALLOWED_ORIGINS
+        sync: false
