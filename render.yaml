@@ -15,7 +15,7 @@ services:
       - key: DATA_ENCRYPTION_KEY
         generateValue: true
       - key: ALLOWED_ORIGINS
-        sync: false
+        value: https://equipment-booking-qaot.onrender.com
 
   - type: web
     name: equipment-booking
