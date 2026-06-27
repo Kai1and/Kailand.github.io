@@ -16,3 +16,17 @@ services:
         generateValue: true
       - key: ALLOWED_ORIGINS
         sync: false
+
+  - type: web
+    name: equipment-booking
+    runtime: static
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./dist
+    envVars:
+      - key: VITE_API_URL
+        value: https://equipment-booking-api.onrender.com/api
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
